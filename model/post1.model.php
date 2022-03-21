@@ -12,3 +12,5 @@
     </style>
 
     Les surfeurs établissent un nouveau code de conduite sportif qui rejette les règles et l'organisation traditionnelles pour construire un socle doctrinal initiateur de la glisse d'aujourd'hui. Ce code de conduite alternatif n'est que la partie sportive d'une contestation plus large et apparaissant dans d'autres domaines (musique, peinture, poésie, littérature) qui donne naissance au cours des années 60 à cette contre-culture. Dès lors, il est donc essentiel pour les sociologues du sport comme A.Loret de ne pas considérer la glisse comme un simple phénomène sportif en rupture avec la tradition sportive mais comme partie intégrante d'un mouvement culturel.";
+
+    $bg = 'assets/img/contact-bg.jpg';
